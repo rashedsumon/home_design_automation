@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+pdfplumber
+opencv-python
+numpy
+pandas
+Pillow
+matplotlib
+json5
